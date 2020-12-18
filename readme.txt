@@ -4,4 +4,5 @@ hello git!
 Git has a mutable index called stage.
 csl
 Git tracks changes
-change1.
+change1
+Create a new branch is quick.
